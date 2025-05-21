@@ -4,6 +4,7 @@
   box-sizing: border-box;
 }
 
+
 body {
   font-family: 'Inter', sans-serif;
   line-height: 1.6;
@@ -20,7 +21,7 @@ body {
 
 
 header {
-  background-color: #ffffff;
+  background-color:#84e788;
   padding: 20px 40px;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
   position: sticky;
@@ -34,9 +35,9 @@ header {
 }
 
 .logo-img {
-  max-width: 300px;
-  width: 100%;
-  height: auto;
+  max-width: 500px;
+  width: 150%;
+  height: 0 auto;
 }
 
 
