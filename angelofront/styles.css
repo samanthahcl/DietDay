@@ -69,6 +69,7 @@ nav {
   flex: 1;
   min-width: 280px;
   max-width: 320px;
+  border: 2px solid #28a745;
 }
 
 .card.destaque {
@@ -154,4 +155,13 @@ footer {
 .cta-button:hover { 
   background-color:#10B981;
   transform: scale(1.05);
+}
+.app-image {
+  flex: 1;
+  min-width: 250px;
+}
+
+.app-text {
+  flex: 2;
+  min-width: 300px;
 }
