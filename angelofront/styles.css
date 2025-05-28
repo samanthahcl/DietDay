@@ -79,7 +79,7 @@ nav {
 }
 
 .card.destaque {
-  border: 2px solid #1abc9c;
+  border: 2px solid #28a745;
 }
 
 .card h2 {
@@ -97,7 +97,7 @@ nav {
 }
 
 button, .btn-cta {
-  background-color: #1abc9c;
+  background-color: #28a745;
   color: white;
   padding: 10px 16px;
   border: none;
@@ -149,7 +149,7 @@ footer {
 .cta-button{ 
   display: inline-block;
   padding: 10px 20px;
-  background-color: #10B981;
+  background-color: #28a745;
   color: white;
   text-decoration: none;
   border-radius: 5px;
@@ -159,7 +159,7 @@ footer {
 }
 
 .cta-button:hover { 
-  background-color:#10B981;
+  background-color:#28a745;
   transform: scale(1.05);
 }
 .app-image {
